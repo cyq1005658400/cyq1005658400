@@ -24,19 +24,10 @@
  
 <!--my introduction end -->
  
-<br>
- 
-<p align="center">
-  <a href="https://github.com/cyq1005658400" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&theme=transparent" alt="cyq1005658400's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&hide=issues&theme=transparent" alt="cyq1005658400's Stats" >
-    -->
-  </a>
-</p>
+<br/>  
 
 
- ## My Skill Set  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -89,6 +80,8 @@
 </td></tr></table>  
 
 <br/>  
+
+
 
 
 ### 🧠 Web and code
