@@ -1,26 +1,25 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);残风同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+![FL2S@0NM0N5CCF2S{HS(%T3](https://github.com/cyq1005658400/cyq1005658400/assets/85721043/dabe8b33-34e3-4c12-b5a6-bafd93b3f48b)<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/cyq1005658400/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=cyq1005658400&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">Yingqi</a>
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+
  
 <!--my introduction start-->
     
-- 🔭 empty
-- 🌱 empty
-- 🤔 Only two things make me moved. 
-  1. empty
-  2. empty
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Python.
+- 📫 How to reach me: yingqi1126@foxmail.com
+- ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
 - 💬 Be free to ask me about anything [here](https://github.com/cyq1005658400/cyq1005658400/issues).
  
 ---
-</details>
+
   
-  ✨ 很高兴能来到我的page，欢迎与我交流一切问题
+  ✨ 很高兴您能来到我的page，欢迎与我交流一切问题
  
  
 <!--my introduction end -->
