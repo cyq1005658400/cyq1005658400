@@ -11,7 +11,7 @@
     
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- ⚡ Welcome to my [blog](https://cyq1005658400.github.io/blog/).
 - 📫 How to reach me: yingqi1126@foxmail.com
 - ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
 - 💬 Be free to ask me about anything [here](https://github.com/cyq1005658400/cyq1005658400/issues).
