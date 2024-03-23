@@ -3,7 +3,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (残风)</a>
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">Yingqi</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
@@ -20,7 +20,7 @@
 ---
 </details>
   
-  ✨ 站主目前为江西财经大学大三生，东幻梦想工作室成员，小破站万粉UP主，喜欢编程，动画和剪辑。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
+  ✨ 很高兴能来到我的page，欢迎与我交流一切问题
  
  
 <!--my introduction end -->
