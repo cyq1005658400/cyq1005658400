@@ -28,13 +28,13 @@
  
 <p align="center">
   <a href="https://github.com/cyq1005658400" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&title_color=333&text_color=777" alt="cyq1005658400's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&theme=transparent" alt="cyq1005658400's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&hide=issues&title_color=333&text_color=777" alt="cyq1005658400's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&hide=issues&theme=transparent" alt="cyq1005658400's Stats" >
     -->
   </a>
 </p>
- 
+ ![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
 <p align="center">
   <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
