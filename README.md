@@ -1,36 +1,37 @@
-<h1 align="center"> <a href="https://cyq1005658400.github.io/blog/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> 
+    <a href="https://cyq1005658400.github.io/blog/"> 
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> 
+    </a> 
+</h1>
 <a href="https://github.com/cyq1005658400/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=cyq1005658400&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=cyq1005658400&label=Visitors&color=red&style=flat&logo=github" alt="github-visitors" />
 </a>
- 
+
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">Yingqi</a>
- 
 
- 
 <!--my introduction start-->
-    
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- ⚡ Welcome to my [blog](https://cyq1005658400.github.io/blog/).
-- 📫 How to reach me: yingqi1126@foxmail.com
-- ❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/cyq1005658400/cyq1005658400/issues).
- 
----
-
-  
-  ✨ 很高兴您能来到我的page，欢迎与我交流一切问题
- 
- 
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        <ul>
+            <li>🔭 I’m currently working on something cool.</li>
+            <li>🌱 I’m currently learning Everything I like.</li>
+            <li>⚡ Welcome to my <a href="https://cyq1005658400.github.io/blog/">blog</a>.</li>
+            <li>📫 How to reach me: yingqi1126@foxmail.com</li>
+            <li>❤️ I like eating 🍉, playing 🏓, sleeping in 🛌 and 📺 [ACGN]</li>
+            <li>💬 Be free to ask me about anything <a href="https://github.com/cyq1005658400/cyq1005658400/issues">here</a>.</li>
+        </ul>
+        <p>✨ 很高兴您能来到我的page，欢迎与我交流一切问题</p>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    </div>
+</div>
 <!--my introduction end -->
- 
-<br/>  
 
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -42,8 +43,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -65,8 +64,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -81,22 +78,5 @@
 
 <br/>  
 
-
-
-
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
- 
-</td></tr>
- 
-<tr><td>
+    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"
