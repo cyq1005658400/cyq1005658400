@@ -11,6 +11,7 @@
 
 <!--my introduction start-->
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
+            <img align="right" src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
     <div style="flex: 1; margin-right: 20px;">
         <ul>
             <li>🔭 I’m currently working on something cool.</li>
@@ -22,9 +23,8 @@
         </ul>
         <p>✨ 很高兴您能来到我的page，欢迎与我交流一切问题</p>
     </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    </div>
+
+
 </div>
 
 
