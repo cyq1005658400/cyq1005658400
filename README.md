@@ -10,8 +10,8 @@
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">Yingqi</a>
 
 <!--my introduction start-->
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 20px;">
         <ul>
             <li>🔭 I’m currently working on something cool.</li>
             <li>🌱 I’m currently learning Everything I like.</li>
@@ -26,6 +26,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
     </div>
 </div>
+
+
 <!--my introduction end -->
 
 <br/>  
