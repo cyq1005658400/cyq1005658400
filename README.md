@@ -18,7 +18,7 @@
             <li>🌱 Tencent WXG Open Platform</li>
             <li>📫 Baidu Mediago Inapp </li>
             <li>⚡ TikTok Mobile Infra </li>
-            <li>❤️ ICT, Chinese Academy of Sciences</li>
+            <li>❤️ Chinese Academy of Sciences</li>
             <li>💬 Be free to ask me about anything <a href="https://github.com/cyq1005658400/cyq1005658400/issues">here</a>.</li>
         </ul>
         <p>✨ 很高兴您能来到我的page，欢迎与我交流一切问题</p>
