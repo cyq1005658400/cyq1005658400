@@ -14,9 +14,12 @@
             <img align="right" src="https://github-readme-stats.vercel.app/api?username=cyq1005658400&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
     <div style="flex: 1; margin-right: 20px;">
         <ul>
-            #### **[TikTok](https://www.douyin.com/)** -- `2025.1 to Now.`
-            #### **[Bilibili](https://space.bilibili.com/489812144?spm_id_from=333.1007.0.0)** -- `OGV Technology Department and Front-end Value-added Team` --- `2024.7 to 2024.11.`
-            #### **[MeiTuan](https://www.meituan.com/)** -- `Campus Delivery Online Operation Team`--- `2024.1 to 2024.6.`
+            <li> Work Experience:</li>
+            <li>🌱 Tencent WXG Open Platform</li>
+            <li>📫 Baidu Mediago Inapp </li>
+            <li>⚡ TikTok Mobile Infra </li>
+            <li>❤️ ICT, Chinese Academy of Sciences</li>
+            <li>💬 Be free to ask me about anything <a href="https://github.com/cyq1005658400/cyq1005658400/issues">here</a>.</li>
         </ul>
         <p>✨ 很高兴您能来到我的page，欢迎与我交流一切问题</p>
     </div>
